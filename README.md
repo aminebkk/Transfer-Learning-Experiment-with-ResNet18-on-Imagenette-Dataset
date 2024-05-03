@@ -1,4 +1,4 @@
-# Transfer-Learning-Experiment-with-ResNet18-on-Imagenette-Dataset
+# Transfer-Learning-Experiment-With-ResNet18-On-Imagenette-Dataset
 
 ![image](https://github.com/aminebkk/Transfer-Learning-Experiment-with-ResNet18-on-Imagenette-Dataset/assets/68397537/3f083b80-7d4f-4ef1-b35c-20c5d26d64fb)
 
